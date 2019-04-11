@@ -1,3 +1,5 @@
+Solution viewable at https://exercism.io/my/solutions/4f4bf086ea384600a4d4e16594da4fd4
+
 # Acronym
 
 Convert a phrase to its acronym.
